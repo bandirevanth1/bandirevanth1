@@ -1,5 +1,4 @@
-# [Bandi Revanth](https://bandirevanth.com)
-
+# [Bandi Revanth]
 ## Hello 👋, Welcome to my official README!
   
 
