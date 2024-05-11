@@ -1,4 +1,4 @@
-# [Bandi Revanth]
+# Bandi Revanth
 ## Hello 👋, Welcome to my official README!
   
 
