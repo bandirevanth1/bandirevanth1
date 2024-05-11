@@ -44,7 +44,7 @@
 <div align="center">  
 <p align="center">
   <a href="https://bandirevanth.com">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js,nodejs,md,netlify,react,tailwind,py,cpp,stackoverflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,js,nodejs,py,stackoverflow,vscode" />
   </a>
 </p>
 </div>  
